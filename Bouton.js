@@ -26,7 +26,7 @@ export default function Button({ label, theme, onPress }) {
           <FontAwesome
             name="picture-o"
             size={18}
-            color="#25292e"
+            color="#25292e" 
             style={styles.buttonIcon}
           />
           <Text style={[styles.buttonLabel, { color: "#25292e" }]}>{label}</Text>

@@ -18,7 +18,7 @@ export default function EmojiList({ onSelect, onCloseModal }) {
       data={emoji}
       contentContainerStyle={styles.listContainer}
       renderItem={({ item, index }) => (
-        <Pressable
+        <Pressable 
           onPress={() => {
             onSelect(item);
             onCloseModal();

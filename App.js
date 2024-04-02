@@ -56,7 +56,7 @@ export default function App() {
   };
 
   const onSaveImageAsync = async () => {
-    // we will implement this later
+    // we will implement this later 
   };
 
   const onModalClose = () => {

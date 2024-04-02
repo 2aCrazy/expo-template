@@ -19,4 +19,4 @@ const styles = StyleSheet.create({
     color: '#fff',
     marginTop: 12,
   },
-});
+}); 
